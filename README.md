@@ -1,8 +1,4 @@
-# MWP-Project
-
-MULTIPLICATION OF POLYNOMIALS USING FFT
-
-
+# MULTIPLICATION OF POLYNOMIALS USING FFT
 
 Multiplication of polynomials usually takes O(n*m where one polynomial has n and other has m terms. This can be reduced to O(n*log(m)) by using FFT.
 We are using the Cooley-Tukey FFT Algorithm which is a type of FFT to perform multiplication. 
